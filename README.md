@@ -1,4 +1,5 @@
 Project
+
 Projekti
 
 Objectives:
@@ -8,7 +9,9 @@ Tavoitteet:
 Pistä osat yhteen ja tee digitaalinen pokkari kamera. Tee softa kameralle C++:alla. Tee 3D modeli kameran rungolle, printtaa ja kasaa se.
 
 Part-list:
+
 Osa-lista:
+
 Raspberry Pi Zero 2 WH with Header - https://www.electrokit.com/en/raspberry-pi-zero-2-w-med-inlodd-header
 
 2.8" TFT 320x240px HAT with touch - https://www.electrokit.com/en/2.8tft-320x240px-hat-with-touch
