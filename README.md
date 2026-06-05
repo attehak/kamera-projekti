@@ -2,11 +2,24 @@ Project
 
 Projekti
 
+
 Objectives:
+
 Put all parts together and make a digital pocket camera. Make software for digital pocket camera with C++. Make a 3D model for the body of the camera, print it and assemble it.
 
 Tavoitteet:
+
 Pistä osat yhteen ja tee digitaalinen pokkari kamera. Tee softa kameralle C++:alla. Tee 3D modeli kameran rungolle, printtaa ja kasaa se.
+
+
+Stretch goals:
+
+Make a nightvision camera with extra parts.
+
+Lisätavoite:
+
+Tee pimeänäkökamera ekstra osilla.
+
 
 Part-list:
 
@@ -37,3 +50,10 @@ Tactile switch PCB 6x6x5mm black - https://www.electrokit.com/en/tryckknapp-pcb-
 Joystick - thum, glide - https://www.electrokit.com/en/joystick-tum-glid
 
 And a bunch of cables, screws and spacers.
+
+
+Extra parts:
+
+Ekstra osat:
+
+Night vision camera for Raspberry Pi 5MP 50° OV5647 - https://www.electrokit.com/en/night-vision-camera-for-raspberry-pi-5mp-50ov5647
